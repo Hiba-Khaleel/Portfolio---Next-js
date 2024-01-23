@@ -67,9 +67,9 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold  mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            Junior front-end developer. Committed to creating user-friendly and
-            accessible web experiences. Open to new opportunities and
-            connections in the field.
+            Junior front-end developer.Eager to learn new skills, Committed to
+            creating user-friendly and accessible web experiences. Open to new
+            opportunities and connections in the field.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
