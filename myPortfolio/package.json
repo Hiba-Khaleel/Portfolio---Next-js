@@ -4,8 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "npm run build",
-    "publishDirectory": ".next",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
